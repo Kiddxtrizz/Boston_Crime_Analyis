@@ -1,4 +1,4 @@
-# Boston_Crime_Analyis
+# Boston Crime Analyis
 Capstone Project for Analytics Systems Technology
 
 ### Introduction
