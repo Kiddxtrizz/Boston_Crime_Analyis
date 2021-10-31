@@ -5,7 +5,7 @@ Capstone Project for Analytics Systems Technology
 
 As a lifelong Boston resident, I wanted to learn more about crimes committed within Boston. Thankfully, the Boston Police Department (BPD) provide incdient reproting data to the city for public use. Records in the new system begin in June of 2015. Additionally, the dataset contains records from the new crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred.  I have collected several datasets from https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system. Although the available data starts in 2015, I will be using data from 2017 - 2021 with a total sample size of n=314597; both 2019 (n=19782 | Sep-Dec) and 2021 (n=23695 | Jan - May) are partial years. Hopefully, the information the authorities have gathered will allow me to take a glimpse at Boston's seedy underbelly.
 
-Total number of observation per dataset:
+Total number of observations per dataset:
 * 2017, n=101338  
 * 2018, n=98888
 * 2020, n=70894
