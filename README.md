@@ -48,9 +48,9 @@ I have collected several datasets from https://data.boston.gov/dataset/crime-inc
 #### Total sample size (n=314597)
 
 Size Breakdown
-* 2017(n=101338)  
-* 2018(n=98888)
-* 2020(n=70894)
+* 2017 (n=101338)  
+* 2018 (n=98888)
+* 2020 (n=70894)
 * both 2019 (n=19782 | Sep-Dec) and 2021 (n=23695 | Jan - May) are partial years. 
  
 **Total size: 54.5 MB**
