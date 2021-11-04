@@ -42,13 +42,17 @@ I plan to utilize the [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/) pro
 ## Project Description
 As a lifelong Boston resident, I wanted to learn more about crimes committed within Boston. Thankfully, the Boston Police Department (BPD) provides incident reporting data for public use. 
 I have collected several datasets from https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system starting from 2017-2021.  Moreover, the datasets are comprised of records from the new crime incident reporting system, which includes a reduced set of fields focused on capturing the type of incident and when and where it occurred. 
-Total number of observations per dataset:
-Total sample size of n=314597
+
+
+####Total sample size of n=314597
+
+Size Breakdown
 * 2017, n=101338  
 * 2018, n=98888
 * 2020, n=70894
- * both 2019 (n=19782 | Sep-Dec) and 2021 (n=23695 | Jan - May) are partial years. 
-Total size: 54.5 MB
+* both 2019 (n=19782 | Sep-Dec) and 2021 (n=23695 | Jan - May) are partial years. 
+ 
+**Total size: 54.5 MB**
 
 ## Needs of this project
 
