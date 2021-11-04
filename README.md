@@ -1,18 +1,9 @@
-# Boston Crime Analyis
-Capstone Project for Analytics Systems Technology
+# Boston Crime Analysis
+This is my Capstone Project for Analytics Systems Technology
 
-### Introduction
+#### -- Project Status: [Active]
 
-As a lifelong Boston resident, I wanted to learn more about crimes committed within Boston. Thankfully, the Boston Police Department (BPD) provide incdient reproting data to the city for public use. Records in the new system begin in June of 2015. Additionally, the dataset contains records from the new crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred.  I have collected several datasets from https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system. Although the available data starts in 2015, I will be using data from 2017 - 2021 with a total sample size of n=314597; both 2019 (n=19782 | Sep-Dec) and 2021 (n=23695 | Jan - May) are partial years. Hopefully, the information the authorities have gathered will allow me to take a glimpse at Boston's seedy underbelly.
-
-Total number of observations per dataset:
-* 2017, n=101338  
-* 2018, n=98888
-* 2020, n=70894
-
-Total size: 54.5 MB 
-
-**Business Requirements/Understanding:**
+## Business Requirements/Understanding
 
 1. What are the top offenses committed in the city?
 2. Are certain crimes committed during a specific time period?
@@ -23,8 +14,6 @@ Total size: 54.5 MB
     * Has a specific occurrence of a particular offense decreased over time?
 5. Can we determine high-risk areas based on a set of features?
 
-**Overview:**
-
 I plan to utilize the [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/) process model for this project:
 1.    Business understanding – What does the business need?
 2.    Data understanding – What data do we have/need? Is it clean?
@@ -34,3 +23,53 @@ I plan to utilize the [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/) pro
 6.    Deployment – How do stakeholders access the results?
 
 ![crisp-dm](https://www.kdnuggets.com/wp-content/uploads/crisp-dm-4-problems-fig1.png)
+
+### Partner
+* Northeastern University
+
+### Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+
+### Technologies
+* Python
+* Pandas, jupyter
+* Scikit Learn
+* Matplotlib, Seaborn
+
+## Project Description
+As a lifelong Boston resident, I wanted to learn more about crimes committed within Boston. Thankfully, the Boston Police Department (BPD) provides incident reporting data for public use. 
+I have collected several datasets from https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system starting from 2017-2021.  Moreover, the datasets are comprised of records from the new crime incident reporting system, which includes a reduced set of fields focused on capturing the type of incident and when and where it occurred. 
+Total number of observations per dataset:
+Total sample size of n=314597
+* 2017, n=101338  
+* 2018, n=98888
+* 2020, n=70894
+ * both 2019 (n=19782 | Sep-Dec) and 2021 (n=23695 | Jan - May) are partial years. 
+Total size: 54.5 MB
+
+## Needs of this project
+
+- data exploration/descriptive statistics
+- data processing/cleaning
+- statistical modeling
+- writeup/reporting
+
+## Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept [here]( https://github.com/Kiddxtrizz/Boston_Crime_Analysis/tree/main/Data) within this repo.
+
+    
+## Featured Notebooks/Analysis/Deliverables
+* [Capstone_assignment.html]( https://github.com/Kiddxtrizz/Boston_Crime_Analysis/blob/main/Capstone_assignment.html)
+* [Capstone_assignment.ipynb]( https://github.com/Kiddxtrizz/Boston_Crime_Analysis/blob/main/Capstone_assignment.ipynb)
+
+## Contributing Members
+
+**Team Leads (Contacts) : [Trey W.](https://github.com/KiddxTrizz)(@Williams.Treyj@gmail.com)**
+
+## Contact
+* Feel free to ask any questions!
