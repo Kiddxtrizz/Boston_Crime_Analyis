@@ -9,7 +9,7 @@ This is my Capstone Project for Analytics Systems Technology
 2. Are certain crimes committed during a specific time period?
 3. Does geography play a role in particular crimes being committed?
 4. Has crime decreased or increased over time?
-    * What types of offenses remain relevant (stats-quo)
+    * What types of offenses remain relevant (status-quo)
     * Newer crimes being committed 
     * Has a specific occurrence of a particular offense decreased over time?
 5. Can we determine high-risk areas based on a set of features?
